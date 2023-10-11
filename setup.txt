@@ -1,0 +1,6 @@
+mkdir server
+npx create-next-app client (No src, No import alias)
+
+cd server -> npm init
+touch index.js
+npm i express
